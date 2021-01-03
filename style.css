@@ -1,0 +1,20 @@
+
+div {
+    flex: initial;
+
+}
+img{
+    width: 700px;
+    height: 440px;
+}
+body{
+    text-align: center;
+}
+.FLEXBOX{
+    display: flex;
+}
+.div{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
